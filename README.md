@@ -1,4 +1,5 @@
 # AI_Fundamental_Concepts
+## Linear Regression and Multiple Linear Regression
 
 Author: Faraz Yusuf Khan
 
