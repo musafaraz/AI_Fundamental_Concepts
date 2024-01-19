@@ -109,6 +109,10 @@ plt.savefig('LR_combined_plot_side_by_side_colorblind.png', dpi=300)
 # Display the saved plot
 plt.show()
 
+###############################
+#            Results          #
+###############################
+
 # Print metrics for Simple Linear Regression
 print("Simple Linear Regression Metrics")
 # Display the coefficients of the linear regression model
